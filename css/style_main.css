@@ -1,0 +1,22 @@
+body{overflow-x: hidden;}
+.text-white{color:#ffff;}.margin_none{margin: 0 !important;}
+#particles-js{
+  width: 100%; 
+  background-color: transparent;
+  background-image: url('../includes/images/bg1.png')!important;
+  background-size: 100%;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+@font-face {
+    font-family: main_font;
+    src: url('../includes/fonts/Azonix.otf');
+}@font-face {
+    font-family: text_font_one;
+    src: url('../includes/fonts/Roboto-Regular.ttf');
+}.font_quz{font-family: main_font}.font_max_full{font-size: 60px;}.main_text{margin-top: 30px;}
+.icon-nav-font{font-size: 40px;}.abs-pos{position: absolute;}
+.color_2{background-color: #1d0726;}
+.color_3{background-color: #0e0313;}
+.color-2-rbga{background-color: rgba(21,5,29,0.4);}
+.text-font{font-family: text_font_one;}
